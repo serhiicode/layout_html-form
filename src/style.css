@@ -1,1 +1,18 @@
 /* styles go here */
+
+.forms {
+  width: 100%;
+
+  box-sizing: border-box;
+
+}
+
+.field {
+  margin-bottom: 20px;
+
+}
+
+.inpt {
+  display: block;
+  margin-bottom: 10px;
+}
